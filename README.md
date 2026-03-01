@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Irma0805/Irma0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Irma Ortiz 💜
 
-Here are some ideas to get you started:
+💻 Desarrolladora en formación  
+📍 Pinto, España  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280">
+</p>
+Actualmente me estoy formando como desarrolladora web.  
+Disfruto entendiendo cómo funciona el código desde la base y aplicándolo en proyectos prácticos.
+Me gusta trabajar con orden, mejorar cada detalle y aprender algo nuevo cada día.
+---
+
+## 🛠 Tecnologías
+
+- HTML5  
+- CSS3   
+- Git & GitHub  
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Flexbox  
+- Estructura correcta en HTML  
+- Buenas prácticas con Git  
+
+---
+
+## 📫 Contacto
+
+Próximamente LinkedIn 👀
